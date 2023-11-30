@@ -19,7 +19,6 @@
 😺 HTML, CSS, JavaScript<br>
 😺 Oracle<br>
 😺 Git<br>
-😺 Python<br>
   <br>
 
 ![슬라이드5](https://github.com/ifn477/team_project/assets/145645381/72ec9f3c-cf7a-4ec2-8311-64daf5d240d4)
