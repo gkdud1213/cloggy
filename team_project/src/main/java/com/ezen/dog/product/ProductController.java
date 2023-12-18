@@ -313,10 +313,13 @@ public class ProductController {
 	        }
 	    }
 	    if (recentProducts != null && !recentProducts.isEmpty()) {
-			PService ss = sqlSession.getMapper(PService.class);
+	    	
+	    	/*
+	    	PService ss = sqlSession.getMapper(PService.class);
 			list = ss.productuserout();
 			mo.addAttribute("list", list);
-			
+			*/
+	    	
 	        String[] productIds = recentProducts.split("/");
 			PService ps = sqlSession.getMapper(PService.class);
 	        ArrayList<ProductDTO> rplist = ps.recentProducts(productIds);
