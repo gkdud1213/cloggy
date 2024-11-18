@@ -46,8 +46,7 @@ Spring Framework, Java, JavaScript를 활용해 기본적인 CRUD 기능을 구�
 <br><br>
 😺 <strong>찜하기</strong>
 <br>
-&nbsp;&nbsp;&nbsp;    - 상품 페이지 (제품 페이지, 상세 페이지)에서 버튼 클릭 시<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      DB저장 및 상태에 따른 버튼 새로 고침<br>
+&nbsp;&nbsp;&nbsp;    - 상품 페이지 (제품 페이지, 상세 페이지)에서 버튼 클릭 시 DB저장 및 상태에 따른 버튼 새로 고침<br>
 &nbsp;&nbsp;&nbsp;    - 상품 출력 및 상세페이지, 찜 목록 카테고리에서 조회<br><br>
 
 ![슬라이드27](https://github.com/ifn477/team_project/assets/145645381/1274cf08-ff51-468e-8a32-776d9cb4f7c5)
