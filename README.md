@@ -14,11 +14,7 @@
 <br>
 
 ## 기술 스택
-🚩 Java<br>
-🚩 Spring Framework<br>
-🚩 HTML, CSS, JavaScript<br>
-🚩 Oracle<br>
-🚩 Git<br>
+✔️ Java/ HTML, CSS, JavaScript/ Spring Framework/ Oracle/ Git
   <br>
 
 ![슬라이드5](https://github.com/ifn477/team_project/assets/145645381/72ec9f3c-cf7a-4ec2-8311-64daf5d240d4)
@@ -31,7 +27,8 @@
  
 ![슬라이드15](https://github.com/ifn477/team_project/assets/145645381/dbe7f9ec-1fc4-45e9-b5ba-bf3633cf36a5)
 
-✔️ 회원 가입, 로그인<br>
+✔️ <strong>회원 가입, 로그인</strong>
+<br>
 &nbsp; - 각 부문 별 유효성 검사<br>
 &nbsp; - ID 중복, PW 일치 검사<br>
 &nbsp; - 이메일 인증 (JAVA API), 주소 (행정안전부 API)<br>
@@ -46,14 +43,16 @@
 ![슬라이드22](https://github.com/gkdud1213/team_project/assets/145645381/20b7f5e5-ac61-44cf-88f0-aff235286e2f)
 
 <br><br>
-✔️ 찜하기<br>
+✔️ <strong>찜하기</strong>
+<br>
 &nbsp;    - 상품 페이지 (제품 페이지, 상세 페이지)에서 버튼 클릭 시<br>
 &nbsp;&nbsp;&nbsp;      DB저장 및 상태에 따른 버튼 새로 고침<br>
 &nbsp;    - 상품 출력 및 상세페이지, 찜 목록 카테고리에서 조회<br><br>
 
 ![슬라이드27](https://github.com/ifn477/team_project/assets/145645381/1274cf08-ff51-468e-8a32-776d9cb4f7c5)
 <br>
-✔️ 최근 본 상품<br>
+✔️ <strong>최근 본 상품</strong>
+<br>
 &nbsp;    - 상품 상세 페이지 조회 시 최대 10개 상품 쿠키 저장<br>
 &nbsp;    - 최근 본 상품 카테고리에서 조회<br><br>
 <br>
