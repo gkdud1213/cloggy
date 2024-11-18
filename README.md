@@ -20,7 +20,7 @@ Spring Framework, Java, JavaScript를 활용해 기본적인 CRUD 기능을 구�
 <br><br>
 
 #### 4. 주요 기능
-🐈‍⬛ <strong>관리자, 사용자에 따른 카테고리 및 기능</strong>
+😺 <strong>관리자, 사용자에 따른 카테고리 및 기능</strong>
 <br>
 &nbsp;&nbsp;&nbsp; - (사용자 모드) 마이 페이지, 내 정보, 우리 아이 등록 등<br>
 &nbsp;&nbsp;&nbsp; - (관리자 모드) 상품 관리, 쿠폰 생성<br><br>
@@ -28,7 +28,7 @@ Spring Framework, Java, JavaScript를 활용해 기본적인 CRUD 기능을 구�
  
 ![슬라이드15](https://github.com/ifn477/team_project/assets/145645381/dbe7f9ec-1fc4-45e9-b5ba-bf3633cf36a5)
 
-🐈‍⬛ <strong>회원 가입, 로그인</strong>
+😺 <strong>회원 가입, 로그인</strong>
 <br>
 &nbsp;&nbsp;&nbsp; - 각 부문 별 유효성 검사<br>
 &nbsp;&nbsp;&nbsp; - ID 중복, PW 일치 검사<br>
@@ -44,7 +44,7 @@ Spring Framework, Java, JavaScript를 활용해 기본적인 CRUD 기능을 구�
 ![슬라이드22](https://github.com/gkdud1213/team_project/assets/145645381/20b7f5e5-ac61-44cf-88f0-aff235286e2f)
 
 <br><br>
-🐈‍⬛ <strong>찜하기</strong>
+😺 <strong>찜하기</strong>
 <br>
 &nbsp;&nbsp;&nbsp;    - 상품 페이지 (제품 페이지, 상세 페이지)에서 버튼 클릭 시<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      DB저장 및 상태에 따른 버튼 새로 고침<br>
@@ -52,7 +52,7 @@ Spring Framework, Java, JavaScript를 활용해 기본적인 CRUD 기능을 구�
 
 ![슬라이드27](https://github.com/ifn477/team_project/assets/145645381/1274cf08-ff51-468e-8a32-776d9cb4f7c5)
 <br><br>
-🐈‍⬛ <strong>최근 본 상품</strong>
+😺 <strong>최근 본 상품</strong>
 <br>
 &nbsp;&nbsp;&nbsp;    - 상품 상세 페이지 조회 시 최대 10개 상품 쿠키 저장<br>
 &nbsp;&nbsp;&nbsp;    - 최근 본 상품 카테고리에서 조회<br><br>
