@@ -15,7 +15,7 @@ Spring Framework, Java, JavaScript를 활용해 기본적인 CRUD 기능을 구�
 2023.09.18 ~ 2023.10.27/ 노수람, 소하영, 이한솔, 한유정
 <br><br>
 
-#### 3. 개발 환경
+#### 3. 기술 스택
 ![image](https://github.com/user-attachments/assets/3c10f09f-dde1-4359-9472-9c2e5e8757a4)
 <br><br>
 
